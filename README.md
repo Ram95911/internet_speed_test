@@ -13,7 +13,7 @@ A modern web-based application that provides real-time visualization of network 
 - Asynchronous testing to prevent UI blocking
 
 ## Demo Preview
-
+sped.jpg
 
 ## Prerequisites
 
